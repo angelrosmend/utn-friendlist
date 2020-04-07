@@ -1,6 +1,5 @@
 [
   {
-  {
     "id": 1,
     "nombre": "John Constantine",
     "ciudad": "Londres",
@@ -30,5 +29,4 @@
     "ciudad": "New Orleans",
     "added": false
   }
-}
 ]
