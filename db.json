@@ -1,34 +1,16 @@
-Access-Control-Allow-Origin: *
-
-[
-  {
-    "id": 1,
-    "nombre": "John Constantine",
-    "ciudad": "Londres",
-    "added": false
-  },
-    {
-    "id": 2,
-    "nombre": "Dolores Abernathy",
-    "ciudad": "Barcelona",
-    "added": false
-  },
-    {
-    "id": 3,
-    "nombre": "Elliot Alderson",
-    "ciudad": "New York",
-    "added": false
-  },
-    {
-    "id": 4,
-    "nombre": "Carlos Gardel",
-    "ciudad": "Buenos Aires",
-    "added": false
-  },
-    {
-    "id": 5,
-    "nombre": "Klaus Mikaelson",
-    "ciudad": "New Orleans",
-    "added": false
-  }
-]
+{
+  "compañeros":[
+          {
+              "id": 1,
+              "nombre": "John Constantine",
+              "ciudad": "Londres",
+              "added": false
+          },
+         {    
+             "id": 2,
+             "nombre": "Dolores Abernathy",
+             "ciudad": "Barcelona",
+             "added": false  
+          }, 
+  ]
+}
