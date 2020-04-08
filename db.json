@@ -1,5 +1,4 @@
 {
-  "compañeros":[
           {
               "id": 1,
               "nombre": "John Constantine",
@@ -12,5 +11,4 @@
              "ciudad": "Barcelona",
              "added": false  
           }
-  ]
 }
