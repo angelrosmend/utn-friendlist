@@ -1,14 +1,16 @@
 {
-          {
+          { 
+  {
               "id": 1,
               "nombre": "John Constantine",
               "ciudad": "Londres",
               "added": false
-          },
-         {    
+  },
+  {    
              "id": 2,
              "nombre": "Dolores Abernathy",
              "ciudad": "Barcelona",
              "added": false  
-          }
+   }
+ }
 }
