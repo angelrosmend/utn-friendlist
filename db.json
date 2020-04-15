@@ -4,7 +4,7 @@
      "id": 1,
      "avatar": "https://ep00.epimg.net/cultura/imagenes/2013/09/30/television/1380539810_138053_1380539810_noticia_normal.jpg",
      "nombre": "Walter White",
-     "ciudad": "Buenos Aires",
+     "ciudad": "New Mexico",
      "curso": "Desarrollo en React",
      "added": false
   },
@@ -36,7 +36,7 @@
      "id": 5,
      "avatar": "https://images.immediate.co.uk/production/volatile/sites/3/2018/12/Sherlock-Phone-5818b69.jpg?quality=90&resize=620,413",
      "nombre": "Sherlock Holmes",
-     "ciudad": "Milano",
+     "ciudad": "Londres",
      "curso":  "Front-End Web Developer",
      "added": false
   }
