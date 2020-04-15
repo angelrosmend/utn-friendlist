@@ -10,7 +10,7 @@
   },
   {    
     "id": 2,
-    "avatar": "https://img-cdn.hipertextual.com/files/2016/06/82639965_game-of-thrones-season-2-jon-snow.jpg?strip=all&lossy=1&quality=70&resize=740%2C490&ssl=1"
+    "avatar": "https://img-cdn.hipertextual.com/files/2016/06/82639965_game-of-thrones-season-2-jon-snow.jpg?strip=all&lossy=1&quality=70&resize=740%2C490&ssl=1",
     "nombre": "John Snow",
     "ciudad": "Barcelona",
     "curso": "Desarrollo en Angular",
@@ -18,7 +18,7 @@
    },
     {
      "id": 3,
-     "avatar": "https://www.thewrap.com/wp-content/uploads/2020/03/Westworld-Season-3-premiere-1.jpeg"
+     "avatar": "https://www.thewrap.com/wp-content/uploads/2020/03/Westworld-Season-3-premiere-1.jpeg",
      "nombre": "Dolores Abernathy",
      "ciudad": "Amsterdam",
      "curso": "Full Stack Web Developer",
@@ -26,7 +26,7 @@
   },
   {    
     "id": 4,
-    "avatar": "https://ih0.redbubble.net/image.243903725.1803/flat,750x1000,075,f.jpg"
+    "avatar": "https://ih0.redbubble.net/image.243903725.1803/flat,750x1000,075,f.jpg",
     "nombre": "Elliot Alderson",
     "ciudad": "Berlin",
     "curso": "Node JS",
@@ -34,7 +34,7 @@
    },
     {
      "id": 5,
-     "avatar": "https://images.immediate.co.uk/production/volatile/sites/3/2018/12/Sherlock-Phone-5818b69.jpg?quality=90&resize=620,413"
+     "avatar": "https://images.immediate.co.uk/production/volatile/sites/3/2018/12/Sherlock-Phone-5818b69.jpg?quality=90&resize=620,413",
      "nombre": "Sherlock Holmes",
      "ciudad": "Milano",
      "curso":  "Front-End Web Developer",
