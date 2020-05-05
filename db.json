@@ -6,7 +6,9 @@
      "nombre": "Walter White",
      "ciudad": "Albuquerque",
      "curso": "Desarrollo en React",
-     "added": false
+     "email": "heisemberg@gmail.com",
+     "username":"heisemberg",
+      "added": false
   },
   {    
     "id": 2,
@@ -14,6 +16,8 @@
     "nombre": "John Snow",
     "ciudad": "Barcelona",
     "curso": "Desarrollo en Angular",
+    "email": "johnsnow@gmail.com",
+    "username": "whitewolf",
     "added": false  
    },
     {
@@ -22,6 +26,8 @@
      "nombre": "Dolores Abernathy",
      "ciudad": "Amsterdam",
      "curso": "Full Stack Web Developer",
+     "email": "dolores@gmail.com",
+     "username":"wyatt",
      "added": false
   },
   {    
@@ -30,6 +36,8 @@
     "nombre": "Elliot Alderson",
     "ciudad": "New York",
     "curso": "Node JS",
+    "email": "elliot@gmal.com",
+    "username":"mrrobot,"
     "added": false  
    },
     {
@@ -38,6 +46,8 @@
      "nombre": "Sherlock Holmes",
      "ciudad": "Londres",
      "curso":  "Front-End Web Developer",
+     "email": "sherlockholmes@gmail.com",
+     "username":"sherlocked",
      "added": false
   }
  ]
